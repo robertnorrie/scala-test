@@ -10,7 +10,7 @@ val webappUtils = "0.7.2"
 val anorm = "2.7.0"
 val enumeratum = "1.7.2"
 val scalaJavaTime = "2.5.0"
-val tapir = "1.8.5"
+val tapir = "1.8.4"
 val chimney = "0.8.0-RC1"
 
 val consoleDisabledOptions = Seq("-Werror", "-Ywarn-unused", "-Ywarn-unused-import")
